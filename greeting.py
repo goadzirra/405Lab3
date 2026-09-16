@@ -1,1 +1,1 @@
-print("Hello from New Jersey!")
+print("Hello from the East Coast!")
